@@ -1,0 +1,26 @@
+{
+  "name": "poll-js",
+  "version": "1.0.0",
+  "description": "abortable polling in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=7.6"
+  },
+  "keywords": [
+    "polling",
+    "javascript"
+  ],
+  "author": "Tom Liang",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "7.13.10",
+    "babel-jest": "26.6.3",
+    "jest": "26.6.3"
+  },
+  "dependencies": {
+    "axios": "0.21.1"
+  }
+}
